@@ -1,0 +1,10 @@
+{
+  "name": "bun-build-order-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Emiel Mols <emiel@crisp.nl>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
